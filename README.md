@@ -1,1 +1,2 @@
 # AlgorithmScripting
+学习和累积js实现各种算法
